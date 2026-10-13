@@ -68,7 +68,7 @@
 | [Retell AI](https://www.retellai.com/) | hosted voice agent — telephony-first |
 | [Bland AI](https://bland.ai/) | hosted voice agent — focused on phone calls |
 | [Daily.co Bots](https://www.daily.co/products/voice-and-video-bots/) | conversation infrastructure for voice bots |
-| [Tazo Labs](https://tazolabs.com/) | speech-to-decision models for voice agents, cut voice LLM costs by 50% |
+| [Tazo Labs](https://tazolabs.com/) | audio-native decision models for voice agents: reads call audio directly and decides when to respond, wait, or escalate |
 
 ## Open-source models
 
